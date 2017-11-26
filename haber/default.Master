@@ -1,0 +1,153 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="default.master.vb" Inherits="haber._default" %>
+
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>ECOTA - Teknoloji Haberleri</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.theme.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <script src="js/modernizr-2.8.3.min.js"></script>
+        <!-- Sayfalama CSS -->
+        <style>
+            nav .pagination {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            nav .pagination > li {
+                display: inline-block;
+                margin: 0 4px;
+            }
+
+            nav .pagination > li:last-child > a, .pagination > li:last-child > span {
+                border-radius: 0;
+            }
+
+
+            nav .pagination > li a {
+                color: #fff;
+                font-size: 20px;
+                padding: 10px 20px;
+                background-color: #333;
+            }
+
+            nav .pagination > li a:hover {
+                background-color: #ee3440;
+                color: #fff;
+            }
+        </style>
+
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+
+
+        <header>
+            <div class="top-news">
+                   <div class="container-fluid">
+                        <div class="row">
+                           <div class="col-md-3 dark-gray-bg text-right">
+                               <h5 class="text-uppercase white text-bold">Son Haberler</h5>
+                           </div>
+                           <div class="col-md-9 light-gray-bg">
+                                <div class="top-news-slide">
+                                    <div class="item">
+                                       <p class="e-light-gray text-uppercase">Chrome, Web Sitelerin İstenmeyen Yönlendirmelerini Engelleyecek!</p>
+                                   </div>
+                                   <div class="item">
+                                       <p class="e-light-gray text-uppercase">Chrome, Web Sitelerin İstenmeyen Yönlendirmelerini Engelleyecek!</p>
+                                   </div>
+                                   <div class="item">
+                                       <p class="e-light-gray text-uppercase">Chrome, Web Sitelerin İstenmeyen Yönlendirmelerini Engelleyecek!</p>
+                                   </div>
+                                </div>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+
+               <div class="main-head">
+                   <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-3 text-right">
+                               <a href=""><h1 class="logo"><span class="hidden">ECOTA</span><img src="img/logo.png" alt=""></h1></a>
+                           </div>
+                           <div class="col-md-9 dark-gray-bg no-padding">
+                               <div class="add-area text-center">
+                                   <img class="img-responsive" src="img/add.jpg" alt="">
+                               </div>
+                                   <nav class="navbar navbar-default no-mb">
+                                          <div class="navbar-header">
+                                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                              <span class="sr-only">Toggle navigation</span>
+                                              <span class="icon-bar"></span>
+                                              <span class="icon-bar"></span>
+                                              <span class="icon-bar"></span>
+                                            </button>
+                                          </div>
+                                          <div id="navbar" class="navbar-collapse collapse no-margin no-padding">
+                                              <div class="pull-left">
+                                                    <ul class="nav navbar-nav">
+                                                        <li class="active"><a class="pink-nav" href="default.aspx">Anasayfa</a></li>
+                                                        <li><a class="yellow-nav" href="haber.aspx">Haber</a></li>
+                                                        <li class="dropdown">
+                                                            <a href="#" class="red-nav dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Kategoriler <span class="caret"></span></a>
+                                                            <ul class="dropdown-menu">
+                                                                <li><a href="kategori.aspx">Bilim</a></li>
+                                                                <li><a href="kategori.aspx">Oyun</a></li>
+                                                                <li><a href="kategori.aspx">Sinema</a></li>
+                                                                <li><a href="kategori.aspx">Yazılım</a></li>
+                                                                <li><a href="kategori.aspx">Uzay</a></li>
+                                                                <li><a href="kategori.aspx">Teknoloji</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                              </div>
+                                              
+                                              <div class="pull-right">
+                                                    <ul class="nav navbar-nav">
+                                                        <li><a class="green-nav" href="admin/girisyap.html"><i class="fa fa-user"></i> Giriş Yap</a></li>
+                                                    </ul>
+                                                </div>
+                                            
+                                          </div><!--/.nav-collapse -->
+                                  </nav>
+                           </div>
+                        </div>
+                   </div>
+               </div>
+        </header>
+
+        
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+     
+        
+        
+        <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>-->
+        <script>window.jQuery || document.write('<script src="js/jquery-1.11.3.min.js"><\/script>')</script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.js"></script>
+        <script src="js/featherlight.js"></script>
+        <script src="js/jquery.vimeo.api.min.js"></script>
+        <script src="js/wow.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,26 @@
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\haber.dll.config
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\haber.dll
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\haber.pdb
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\haber.xml
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.vbprojResolveAssemblyReference.cache
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.Resources.resources
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.vbproj.GenerateResource.Cache
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.vbproj.CoreCompileInputs.cache
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.dll
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.xml
+C:\Users\Gökhan Tonyalı\Desktop\haber\haber\obj\Debug\haber.pdb
+C:\Users\burak\Desktop\haber\haber\bin\haber.dll.config
+C:\Users\burak\Desktop\haber\haber\bin\haber.dll
+C:\Users\burak\Desktop\haber\haber\bin\haber.pdb
+C:\Users\burak\Desktop\haber\haber\bin\haber.xml
+C:\Users\burak\Desktop\haber\haber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burak\Desktop\haber\haber\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.vbprojResolveAssemblyReference.cache
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.Resources.resources
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.vbproj.GenerateResource.Cache
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.dll
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.xml
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.pdb
+C:\Users\burak\Desktop\haber\haber\obj\Debug\haber.vbproj.CoreCompileInputs.cache

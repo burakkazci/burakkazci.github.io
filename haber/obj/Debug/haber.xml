@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+haber
+</name>
+</assembly>
+<members>
+<member name="T:haber.My.MyWebExtension">
+ <summary>
+ My Namespace for Web projelerinde kullanılabilen özellikleri tanımlamak için kullanılan modül.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:haber.My.MyWebExtension.Computer">
+ <summary>
+ Ana bilgisayarla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:haber.My.MyWebExtension.User">
+ <summary>
+ Geçerli Web kullanıcısıyla ilgili bilgiler döndürür.
+ </summary>
+</member>
+<member name="P:haber.My.MyWebExtension.Request">
+ <summary>
+ Request nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:haber.My.MyWebExtension.Response">
+ <summary>
+ Response nesnesi döndürür.
+ </summary>
+</member>
+<member name="P:haber.My.MyWebExtension.Log">
+ <summary>
+ Asp günlüğü nesnesi döndürür.
+ </summary>
+</member>
+<member name="F:haber._default2._head">
+<summary>
+head denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:haber._default2._icerik">
+<summary>
+icerik denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+<member name="F:haber._default._ContentPlaceHolder1">
+<summary>
+ContentPlaceHolder1 denetimi.
+</summary>
+<remarks>
+Otomatik üretilmiş alan.
+Değiştirmek için, alan bildirimini tasarımcı dosyasından arka plan kod dosyasına taşıyın.
+</remarks>
+</member>
+</members>
+</doc>
